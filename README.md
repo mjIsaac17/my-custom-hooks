@@ -1,3 +1,3 @@
 # Notes
 
-This repository contains several custom hooks for my reference and future projects.
+This repository contains several custom hooks and routes for my reference and future projects.
